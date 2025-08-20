@@ -5,20 +5,20 @@ O **Checking Class da Siam Muay Thai** nasceu a partir de uma necessidade real: 
 
 Diante desse cenário, surgiu a oportunidade de **automatizar o processo**, criando uma aplicação em que os alunos possam registrar sua presença de forma simples, através de um login, enquanto o professor acompanha em tempo real a quantidade de alunos e o status de cada aula.  
 
----
+
 
 ## 🎯 Objetivo  
 Centralizar o **registro de presença** em uma plataforma web:  
 - **Alunos** realizam o check-in de forma rápida e prática.  
 - **Professores** têm uma visão clara e em tempo real do status da aula, facilitando o acompanhamento de presenças e a organização da turma.  
 
----
+
 
 ## 👥 Público-Alvo  
 - **Professor (Administrador)**  
 - **Alunos**  
 
----
+
 
 ## ⚙️ Requisitos Técnicos  
 
@@ -27,7 +27,7 @@ Centralizar o **registro de presença** em uma plataforma web:
 - **Backend**: Java + Spring Boot  
 - **Banco de Dados**: PostgreSQL  
 
----
+
 
 ## 🚀 Funcionalidades  
 
@@ -40,4 +40,3 @@ Centralizar o **registro de presença** em uma plataforma web:
 - Cadastrar e atualizar foto de perfil  
 - Acompanhar seu progresso na academia  
 
----
