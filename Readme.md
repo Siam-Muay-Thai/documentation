@@ -10,6 +10,26 @@ Centralizar o **registro de presença** em uma plataforma web:
 - **Professores** têm uma visão clara e em tempo real do status da aula, facilitando o acompanhamento de presenças e a organização da turma.  
 <br>
 
+
+## Requisitos do Sistema
+
+## Requisitos Funcionais (RF)
+- O aluno deve poder criar uma conta e fazer login.
+- O aluno deve poder realizar check-in em uma aula.
+- O aluno deve poder cadastrar/atualizar sua foto de perfil.
+- O sistema deve exibir ao aluno o histórico e progresso em aulas.
+- O administrador deve poder criar, editar e excluir turmas semanais.
+- O administrador deve visualizar em tempo real os alunos presentes em cada aula.
+- O administrador deve poder gerar relatórios de frequência.
+
+# Requisitos Não Funcionais (RNF)
+
+- A aplicação deve ser responsiva (desktop, tablet, mobile).
+- A aplicação deve suportar autenticação segura (JWT ou OAuth).
+- O sistema deve registrar logs de acessos e operações críticas.
+- Banco de dados relacional com consistência transacional (PostgreSQL).
+ -O sistema deve ter disponibilidade mínima de 99%.
+ 
 ## 👥 Público-Alvo  
 - **Professor (Administrador)**  
 - **Alunos**  
